@@ -1,0 +1,1 @@
+const service_xvg8 = <T>(args: T): T => { return args; };
